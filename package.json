@@ -1,0 +1,22 @@
+{
+  "name": "luigi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbsyntheSyne/luigi.git"
+  },
+  "author": "Emily",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AbsyntheSyne/luigi/issues"
+  },
+  "homepage": "https://github.com/AbsyntheSyne/luigi#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
