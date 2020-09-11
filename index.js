@@ -12,5 +12,7 @@ client.on('message', message => {
         message.channel.send('Pong.');
     }
 });
-
+function getRndInteger(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) ) + min;
+  }
 client.login('');
